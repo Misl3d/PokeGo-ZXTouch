@@ -1,10 +1,10 @@
-#Trade Bot 2.0
+#Trade Script by Misl3d
 from zxtouch.client import zxtouch 
 from zxtouch.touchtypes import *
 import time
 
 #DEVICE IP 
-device = zxtouch("192.168.1.177")
+device = zxtouch("INSERT IP INSIDE QUOTES")
 
 #Button Coordinates
 TradeButton = ("600", "1150")
