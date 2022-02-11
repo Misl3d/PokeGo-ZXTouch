@@ -1,10 +1,9 @@
-#Trade Bot 2.0
 from zxtouch.client import zxtouch 
 from zxtouch.touchtypes import *
 import time
 
 #DEVICE IP 
-device = zxtouch("192.168.1.177")
+device = zxtouch("DEVICE IP INSIDE")
 
 #Button Coordinates
 #Button Coordinates
@@ -57,7 +56,7 @@ def start():
         evolves += 1 
         print("\n Evolution #" + str(evolves))
         evolve()
-    print("\n Trading Complete!")    
+    print("\n Evolutions Complete!")    
 
 
 start()
