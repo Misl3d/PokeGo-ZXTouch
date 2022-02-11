@@ -7,6 +7,9 @@ ZXTouch: http://zxtouch.net
 
 [ZXTouch Library](https://github.com/xuan32546/IOS13-SimulateTouch/tree/0.0.6/layout/usr/lib/python3.7/site-packages/zxtouch) - Goes in "site-packages" folder of python install 
   
+I AM NOT THE CREATOR OF SX-BYPASS OR ZXTOUCH
+
+THESE SCRIPTS JUST USE THEM
 ----
 Only tested on iPhone 7 & iPhone 8 (both same screen size)
 
