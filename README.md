@@ -7,6 +7,10 @@ ZXTouch: http://zxtouch.net
 
 [ZXTouch Library](https://github.com/xuan32546/IOS13-SimulateTouch/tree/0.0.6/layout/usr/lib/python3.7/site-packages/zxtouch) - Goes in "site-packages" folder of python install 
   
+I AM NOT THE CREATOR OF SX-BYPASS OR ZXTOUCH
+
+THESE SCRIPTS JUST USE THEM
+
 ----
 Only tested on iPhone 7 & iPhone 8 (both same screen size)
 
@@ -41,7 +45,7 @@ WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 ## [Evolve](Scripts/Evolve.py)
 Demo Video:
 
-[![Demo](Demos/Evolve.jpg)](https://youtu.be/cJeNFuq1eQ0)
+[![Demo](Demos/Evo.jpeg)](https://youtu.be/cJeNFuq1eQ0)
 
 Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
 
@@ -58,7 +62,7 @@ The script will go in order of buttons
 ## [Purify](Scripts/Purify.py)
 Demo Video:
 
-[![Demo](Demos/Pure.jpg)](https://youtu.be/0bnXULuKmyI)
+[![Demo](Demos/Pure.jpeg)](https://youtu.be/0bnXULuKmyI)
 
 
 Filter by Shadow Pokemon and Start
