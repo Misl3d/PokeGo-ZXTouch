@@ -21,10 +21,6 @@ Only tested on iPhone 7 & iPhone 8 (both same screen size 4.7")
 Other sizes will have to be manually found and adjusted using ColorFinder Script
 
 ## [Trading](Scripts/Trade.py)
-Demo Video:
-
-[![Demo](Demos/Trade.jpg)](https://youtu.be/X9rCQhLz0Hk)
-
 
 Requires 2 Jailbroken Devices
 
@@ -45,9 +41,6 @@ WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 
 (It helps to manually do a special trade before running)
 ## [Evolve](Scripts/Evolve.py)
-Demo Video:
-
-[![Demo](Demos/Evo.jpeg)](https://youtu.be/cJeNFuq1eQ0)
 
 Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
 
@@ -62,9 +55,6 @@ The script will go in order of buttons
   4. [Exit Button](Demos/Evo/Exit.PNG)
 
 ## [Purify](Scripts/Purify.py)
-Demo Video:
-
-[![Demo](Demos/Pure.jpeg)](https://youtu.be/0bnXULuKmyI)
 
 
 Filter by Shadow Pokemon and Start
