@@ -9,7 +9,8 @@ ZXTouch: http://zxtouch.net
 Python installed on Computer
 
 [ZXTouch Library](https://github.com/xuan32546/IOS13-SimulateTouch/tree/0.0.6/layout/usr/lib/python3.7/site-packages/zxtouch) - Goes in "site-packages" folder of python install 
-  
+ 
+---- 
 I AM NOT THE CREATOR OF SX-BYPASS OR ZXTOUCH
 
 THESE SCRIPTS JUST USE THEM
