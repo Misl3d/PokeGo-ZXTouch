@@ -27,11 +27,11 @@ Make 2 copies of the script and configure each seperatly with the IP of the devi
 Run both scripts and input the same amount of trades in each
 
 The script will go in order of buttons
-  1. Trade Button
-  2. Pokemon Selection (1st Slot, unless manually configured otherwise)
-  3. Next Button
-  4. Confirm Button
-  5. Exit Button
+  1. [Trade Button](Demos/Trade/Trade.PNG)
+  2. [Pokemon Selection](Demos/Trade/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
+  3. [Next Button](Demos/Trade/Next.PNG)
+  4. [Confirm Button](Demos/Trade/Confirm.PNG)
+  5. [Exit Button](Demos/Trade/Exit.PNG)
 
 It will use a color picker to match (x, y) coordinates to the set value and press the buttons when it finds a match. 
 
