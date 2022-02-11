@@ -16,6 +16,7 @@ Other sizes will have to be manually found and adjusted using ColorFinder Script
 
 ## [Trading](Scripts/Trade.py)
 [![Demo](Demos/Trade.jpg)](https://youtu.be/X9rCQhLz0Hk)
+
 Requires 2 Jailbroken Devices
 
 Make 2 copies of the script and configure each seperatly with the IP of the devices
