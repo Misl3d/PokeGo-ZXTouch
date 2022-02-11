@@ -15,7 +15,7 @@ Orignal scripts should have the correct values for 4.7" screens
 Other sizes will have to be manually found and adjusted using ColorFinder Script
 
 ## [Trading](Scripts/Trade.py)
-[![Demo](Demos/Trade.mov)
+[![Demo](Demos/Trade.mov)](https://youtu.be/Thuuu6QKRoc)
 Requires 2 Jailbroken Devices
 
 Make 2 copies of the script and configure each seperatly with the IP of the devices
