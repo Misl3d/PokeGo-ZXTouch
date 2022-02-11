@@ -10,6 +10,7 @@ ZXTouch: http://zxtouch.net
 I AM NOT THE CREATOR OF SX-BYPASS OR ZXTOUCH
 
 THESE SCRIPTS JUST USE THEM
+
 ----
 Only tested on iPhone 7 & iPhone 8 (both same screen size)
 
