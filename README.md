@@ -39,6 +39,9 @@ WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 
 (It helps to manually do a special trade before running)
 ## [Evolve](Scripts/Evolve.py)
+Demo Video:
+
+[![Demo](Demos/Evolve.jpg)](https://youtu.be/cJeNFuq1eQ0)
 
 Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
 
@@ -53,9 +56,12 @@ The script will go in order of buttons
   4. [Exit Button](Demos/Evo/Exit.PNG)
 
 ## [Purify](Scripts/Purify.py)
+Demo Video:
+
+[![Demo](Demos/Pure.jpg)](https://youtu.be/0bnXULuKmyI)
+
 
 Filter by Shadow Pokemon and Start
-
 The script will go in order of buttons
   1. [Pokemon Selection](Demos/Pure/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
   2. [Purify Button](Demos/Pure/Pure.PNG)
