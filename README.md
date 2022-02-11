@@ -24,7 +24,7 @@ Requires 2 Jailbroken Devices
 
 Make 2 copies of the script and configure each seperatly with the IP of the devices
 
-Run both scripts and input the same amount of trades in each
+Run both scripts from profile pages and input the same amount of trades in each
 
 The script will go in order of buttons
   1. [Trade Button](Demos/Trade/Profile.PNG)
@@ -44,6 +44,8 @@ Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
 
 Pokemon that use items will also get stuck
 
+Filter by "Can Evolve" and start script
+
 The script will go in order of buttons
   1. [Pokemon Selection](Demos/Evo/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
   2. [Evolve Button](Demos/Evo/Evo.PNG)
@@ -51,6 +53,14 @@ The script will go in order of buttons
   4. [Exit Button](Demos/Evo/Exit.PNG)
 
 ## [Purify](Scripts/Purify.py)
+
+Filter by Shadow Pokemon and Start
+
+The script will go in order of buttons
+  1. [Pokemon Selection](Demos/Pure/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
+  2. [Purify Button](Demos/Pure/Pure.PNG)
+  3. [Confirm Button](Demos/Pure/Next.PNG)
+  4. [Exit Button](Demos/Pure/Exit.PNG)
 
 ## Using [Color Finder](Scripts/ColorFinder.py)
   1. On Device use ZXTouch Indicator to find coordinates of the button
