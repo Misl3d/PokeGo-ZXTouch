@@ -38,8 +38,19 @@ It will use a color picker to match (x, y) coordinates to the set value and pres
 WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 
 (It helps to manually do a special trade before running)
+## [Evolve](Scripts/Evolve.py)
 
-## Purify Pokemon
+Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
+
+Pokemon that use items will also get stuck
+
+The script will go in order of buttons
+  1. [Pokemon Selection](Demos/Evo/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
+  2. [Evolve Button](Demos/Evo/Evo.PNG)
+  3. [Confirm Button](Demos/Evo/Next.PNG)
+  4. [Exit Button](Demos/Evo/Exit.PNG)
+
+## [Purify](Scripts/Purify.py)
 
 ## Using [Color Finder](Scripts/ColorFinder.py)
   1. On Device use ZXTouch Indicator to find coordinates of the button
