@@ -8,7 +8,7 @@ device = zxtouch("INSERT IP INSIDE QUOTES")
 
 #Button Coordinates
 TradeButton = ("600", "1150")
-PokemonSelect = ("300", "450")
+PokemonSelect = ("50", "450")
 NextButton =  ("375", "1075")
 ConfirmButton = ("45", "680")
 XButton =  ("375", "1230")
