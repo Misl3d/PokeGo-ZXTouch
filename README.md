@@ -39,8 +39,6 @@ WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 
 (It helps to manually do a special trade before running)
 
-## Evolve Pokemon
-
 ## Purify Pokemon
 
 ## Using [Color Finder](Scripts/ColorFinder.py)
