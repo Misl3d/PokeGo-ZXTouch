@@ -1,4 +1,3 @@
-#Trade Bot 2.0
 from zxtouch.client import zxtouch 
 from zxtouch.touchtypes import *
 import time
