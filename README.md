@@ -45,10 +45,10 @@ Gets stuck on shadow pokemon as the evolve button is moved/offscreen at times.
 Pokemon that use items will also get stuck
 
 The script will go in order of buttons
-  1. Pokemon Selection (1st Slot, unless manually configured otherwise)
-  2. Evolve Button
-  3. Confirm Button
-  4. Exit Button
+  1. [Pokemon Selection](Demos/Evo/PokeSelect.PNG) (1st Slot, unless manually configured otherwise)
+  2. [Evolve Button](Demos/Evo/Evo.PNG)
+  3. [Confirm Button](Demos/Evo/Next.PNG)
+  4. [Exit Button](Demos/Evo/Exit.PNG)
 
 ## [Purify](Scripts/Purify.py)
 
