@@ -16,9 +16,7 @@ I AM NOT THE CREATOR OF SX-BYPASS OR ZXTOUCH
 THESE SCRIPTS JUST USE THEM
 
 ----
-Only tested on iPhone 7 & iPhone 8 (both same screen size)
-
-Orignal scripts should have the correct values for 4.7" screens 
+Only tested on iPhone 7 & iPhone 8 (both same screen size 4.7")
 
 Other sizes will have to be manually found and adjusted using ColorFinder Script
 
