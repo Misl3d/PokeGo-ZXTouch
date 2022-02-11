@@ -14,8 +14,8 @@ Orignal scripts should have the correct values for 4.7" screens
 
 Other sizes will have to be manually found and adjusted using ColorFinder Script
 
-## [Trading](Trade.py)
-
+## [Trading](Scripts/Trade.py)
+[![Demo](Demos/Trade.jpg)](https://youtu.be/Thuuu6QKRoc)
 Requires 2 Jailbroken Devices
 
 Make 2 copies of the script and configure each seperatly with the IP of the devices
@@ -39,7 +39,7 @@ WILL GET STUCK ON FAVORITED POKEMON, OTHERWISE TRADES EVERYTHING
 
 ## Purify Pokemon
 
-## Using [Color Finder](ColorFinder.py)
+## Using [Color Finder](Scripts/ColorFinder.py)
   1. On Device use ZXTouch Indicator to find coordinates of the button
   2. Run ColorFinder.py 
   3. Input the Device's IP
