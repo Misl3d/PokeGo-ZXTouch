@@ -4,7 +4,7 @@ from zxtouch.touchtypes import *
 import time
 
 #DEVICE IP 
-device = zxtouch("INSERT IP INSIDE QUOTES")
+device = zxtouch("192.168.1.177")
 
 #Button Coordinates
 TradeButton = ("600", "1150")
@@ -15,7 +15,7 @@ XButton =  ("375", "1230")
 
 #Button Colors
 TradeButtonColor = (True, {'red': '240', 'green': '255', 'blue': '255'})
-PokemonSelectColor = (True, {'red': '250', 'green': '255', 'blue': '249'})
+PokemonSelectColor = (True, {'red': '253', 'green': '255', 'blue': '253'})
 NextButtonColor = (True, {'red': '115', 'green': '214', 'blue': '157'})
 ConfirmButtonColor = (True, {'red': '105', 'green': '208', 'blue': '146'})
 XButtonColor = (True, {'red': '29', 'green': '133', 'blue': '149'})
