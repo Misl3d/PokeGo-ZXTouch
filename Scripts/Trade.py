@@ -58,4 +58,5 @@ def start():
         trade()
     print("\n Trading Complete!")    
 
+start()
 exit() 
